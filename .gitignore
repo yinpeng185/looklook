@@ -1,0 +1,4 @@
+#测试    注释：忽略node-modules文件
+xc
+#真正vue框架文件
+node-modules
